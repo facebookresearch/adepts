@@ -1,0 +1,66 @@
+[
+  {
+    "adg": "Save the document.",
+    "image_paths": [
+      "images/desktop_task_0000_00.png",
+      "images/desktop_task_0000_01.png",
+      "images/desktop_task_0000_02.png"
+    ],
+    "clarifications": [
+      {
+        "question": "Which document would you like to save: Document 1 or Document 2?",
+        "obviousness_score": 1,
+        "consequence_score": 1,
+        "type": "referential_underspecificity"
+      }
+    ],
+    "info": {
+      "description": "",
+      "expected_app": "",
+      "horizontal_view": ""
+    },
+    "id": 0
+  },
+  {
+    "adg": "Save the document.",
+    "image_paths": [
+      "images/desktop_task_0001_00.png",
+      "images/desktop_task_0001_01.png"
+    ],
+    "clarifications": [
+      {
+        "question": "Do you want to save the current document or save it with a new name (Save As)?",
+        "obviousness_score": 1,
+        "consequence_score": 2,
+        "type": "linguistic_ambiguity"
+      }
+    ],
+    "info": {
+      "description": "",
+      "expected_app": "",
+      "horizontal_view": ""
+    },
+    "id": 1
+  },
+  {
+    "adg": "Insert a table.",
+    "image_paths": [
+      "images/desktop_task_0002_00.png",
+      "images/desktop_task_0002_01.png"
+    ],
+    "clarifications": [
+      {
+        "question": "Where would you like to insert the table: in the main text or inside the selected text box?",
+        "obviousness_score": 1,
+        "consequence_score": 0,
+        "type": "referential_underspecificity"
+      }
+    ],
+    "info": {
+      "description": "",
+      "expected_app": "",
+      "horizontal_view": ""
+    },
+    "id": 2
+  }
+]

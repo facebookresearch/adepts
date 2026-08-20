@@ -1,0 +1,70 @@
+[
+  {
+    "adg": "Buy the red dress.",
+    "image_paths": [
+      "images/mobile_task_0000_00.png",
+      "images/mobile_task_0000_01.png",
+      "images/mobile_task_0000_02.png",
+      "images/mobile_task_0000_03.png",
+      "images/mobile_task_0000_04.png"
+    ],
+    "clarifications": [
+      {
+        "question": "I can see several red dresses in the results. Which one would you like to buy? You can describe the style, price range, or its position on the screen.",
+        "obviousness_score": 2,
+        "consequence_score": 1,
+        "type": "referential_underspecificity"
+      }
+    ],
+    "info": {
+      "description": "",
+      "expected_app": "",
+      "horizontal_view": ""
+    },
+    "id": 0
+  },
+  {
+    "adg": "Buy the red dress.",
+    "image_paths": [
+      "images/mobile_task_0001_00.png",
+      "images/mobile_task_0001_01.png",
+      "images/mobile_task_0001_02.png",
+      "images/mobile_task_0001_03.png",
+      "images/mobile_task_0001_04.png"
+    ],
+    "clarifications": [
+      {
+        "question": "Would you like to add this to your cart, buy it immediately, or save it to your wishlist?",
+        "obviousness_score": 1,
+        "consequence_score": 1,
+        "type": "linguistic_ambiguity"
+      }
+    ],
+    "info": {
+      "description": "",
+      "expected_app": "",
+      "horizontal_view": ""
+    },
+    "id": 1
+  },
+  {
+    "adg": "Find something cute for the weekend.",
+    "image_paths": [
+      "images/mobile_task_0002_00.png"
+    ],
+    "clarifications": [
+      {
+        "question": "I'd love to help you find something cute! What type of item are you thinking \u2014 a dress, a top, an outfit, or something else?",
+        "obviousness_score": 2,
+        "consequence_score": 0,
+        "type": "linguistic_ambiguity"
+      }
+    ],
+    "info": {
+      "description": "",
+      "expected_app": "",
+      "horizontal_view": ""
+    },
+    "id": 2
+  }
+]
